@@ -7,4 +7,5 @@
 адаптивный макет под разрещения 320px, 768px, 1024px, 1280px; флекс и грид верстка;
 структура по методологии БЭМ (Nested).
 
-GitHub Pages - https://github.com/b2bbbbb/russian-travel.git
+GitHub Pages - https://b2bbbbb.github.io/russian-travel/
+GitHub - https://github.com/b2bbbbb/russian-travel.git
